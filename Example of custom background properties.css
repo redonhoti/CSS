@@ -1,0 +1,19 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i vetive te sfondit individual te CSS</title>
+    <style>
+        body {
+         background-color: #fDe68c;
+         background-image: url("1-mercedes-benz-g-class-2019-rt-hero-front.webp");
+         background-repeat: no-repeat;
+         background-attachment: fixed;
+         background-position: 250px 25px;
+        }
+     </style>
+     </head>
+     <body>
+     <h1>Ky eshte nje titull</h1>
+     <p>Ky eshte nje paragraf</p>
+     </body>
+     </html>
