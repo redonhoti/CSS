@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e lartesise se linjes duke perdorur CSS</title>
+<Style>
+    p {
+        line-height: 1.2;
+        border: 1px solid #00ff00;
+    }
+    div {
+        line-height: 200%;
+        border: 1px solid #ff0000;
+    }
+</Style>
+</head>
+<body>
+    <h1>Ndryshoni vlerat per te pare si funksionon</h1>
+    <p>Vetia <code>line-height</code> cakton lartesine midis rreshtave te tekstit.<br>
+    Lartesia e rreshtit te ketij paragrafi percaktohet duke perdorur numrin.</p>
+    <div>Vetia <code>line-height</code>cakton lartesine midis rreshtave te 
+    tekstit.<br>Lartesia e rreshtit te ketij paragrafi percaktohet duke perdorur
+    perqindjen</div>
+</body>
+</html>
