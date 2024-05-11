@@ -1,0 +1,20 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e pozicionit te personalizuar te sfondit te imazheve ne CSS</title>
+<style>
+   body {
+    background-image: url("1-mercedes-benz-g-class-2019-rt-hero-front.webp");
+    background-repeat: no-repeat;
+    background-position: 100% top;
+}
+h1,p {
+    margin-right: 200px;
+}
+</style>
+</head>
+<body>
+<h1>Ngjyra e prapavijes</h1>
+<p>Me pune dhe me perkushtim mund te arrijme synimet tona jetesore</p>
+</body>
+</html>
