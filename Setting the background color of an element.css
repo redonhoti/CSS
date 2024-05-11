@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja  e ngjyres se sfondit te nje elementi ne CSS</title>
+<style>
+    body {
+        background-color: #504a13;
+    }
+    h1 {
+        background-color: #46c79c;
+    }
+</style>
+</head>
+<body>
+    <h1>Ngjyra e prapavijes</h1>
+    <p>Me pune dhe me perkushtim mund te arrijme synimet tona jetesore</p>
+</body>
+</html> 
