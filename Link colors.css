@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosni ngjyrat e lidhjeve duke perdorur CSS</title>
+<style>
+    a:link {
+        color: #1ebba3;
+    }
+    a:visited {
+        color: #ff00f4;
+    }
+    a:hover {
+        color: #a766ff;
+    }
+    a:active {
+        color: #ff9800;
+    }
+</style>
+</head>
+<body>
+    <p><a href="https://www.fansnoli.edu/" target="_top">Vizitoni IAAP Fan 
+    S.Noli</a></p>
+</body>
+</html>
