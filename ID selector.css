@@ -1,0 +1,14 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i selektorit ID</title>
+<style>
+    #error {
+        color: #ff0000;
+    }
+</style>
+</head>
+<body>
+    <p id="error">Ky eshte nje paralajmerim</p>
+</body>
+</html>
