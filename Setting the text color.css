@@ -1,0 +1,19 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e ngjyres se tekstit ne CSS</title>
+<style>
+    body {
+        color: #ff5722;
+    }
+    .dita {
+        color: #008000;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf.</p>
+    <div class="dita">Kjo eshte nje hapesire e thejsht e tekstit.</div>
+</body>
+</html>
