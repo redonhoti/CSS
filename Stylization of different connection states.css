@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Stilizimi i shteteve te ndryshme te lidhjes duke perdorur CSS</title>
+<style>
+    /*link i pavizituar*/
+    a:link {
+        color: #ff0000;
+        text-decoration: none;
+        border-bottom: 1px solid;
+    }
+    /*link i vizituar*/
+    a:visited {
+        color: #ff00ff;
+    }
+    /*mouse over link*/
+    a:hover {
+        color: #00ff00;
+        border-bottom: none;
+    }
+    /*link aktiv*/
+    a:active {
+        color: #00ffff;
+    }
+</style>
+</head>
+<body>
+    <p><a href="https://www.fansnoli.edu/" target="_top">Vizitoni IAAP Fan 
+    S.Noli</a></p>
+</body>
+</html>
