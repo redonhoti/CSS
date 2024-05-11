@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shembull i Stileve Inline CSS</title>
+
+</head>
+<body>
+    <h1 style="color: red; font-size:30px;">Ky eshte nje titull</h1>
+    <p style="color:green; font-size:22px;">Ky eshte nje paragraf.</p>
+    <div style="color: blue; font-size:14px;"1>Ky eshte nje permbajtje
+teksti.</div>
+</body>
+</html>
