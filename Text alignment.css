@@ -1,0 +1,19 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e shtrirjes se tekstit duke perdorur CSS</title>
+<style>
+    h1 {
+        text-align: center;
+    }
+    p {
+        width: 300px;
+        text-align: justify;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Teksti mund te rreshtohet ne kater menyra: ne te majte, ne te djathte, ne qender ose te justifikuar.</p>
+</body>
+</html>
