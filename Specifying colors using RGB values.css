@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Specifikimi i ngjyrave ne CSS duke perdorur vlerat RGB</title>
+    <style>
+        h1 {
+            color: red;
+        }
+        p {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf</p>
+</body>
+</html>
