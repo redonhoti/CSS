@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Specifikoni ngjyrat ne CSS duke perdorur vlerat RGB</title>
+<style>
+    h1 {
+        color: rgb(255, 100, 50);
+    }
+    p {
+        color: rgb(10, 255, 125);
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf</p>
+</body>
+</html>
