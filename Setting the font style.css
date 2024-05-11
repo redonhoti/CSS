@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e stilit te shkronjave ne CSS</title>
+<style>
+    p.normal {
+        font-style: normal;
+    }
+    p.italic {
+        font-style: italic;
+    }
+    p.oblique {
+        font-style: oblique;
+    }
+</style>
+</head>
+<body>
+     <p class="normal">Ky eshte nje paragraf normal</p>
+     <p class="italic">Ky eshte nje paragraf me stil font italic</p>
+     <p class="oblique">Ky eshte nje paragraf me stil te zhdrejte te fontit</p>
+</body>
+</html>
