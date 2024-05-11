@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Percaktimi i madhesise se shkronjave duke perdorur perqindjen dhe EM</title>
+<style>
+    body{
+        font-size: 62.5%; /*font-size 1em=10px*/
+    }
+    p{
+        font-size: 1.4em; /*1.4em=14px*/
+    }
+    p span{
+        font-size: 2em; /*2em=28px*/
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje<span>paragraf</span>.</p>
+</body>
+</html>
