@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e identitetit te tekstit duke perdorur CSS</title>
+<style>
+    p {
+        text-indent: 100px;
+    }
+</style>
+</head>
+<body>
+    <h1>Identiteti i tekstit CSS</h1>
+    <p>Vetia text-indent perdoret per te vendosur kryeradhe ne rreshtin e pare te 
+    tekstit brenda nje blloku te tekstit.Zakonisht kjo behet duke futur hapesire boshe
+    para rreshtit te pare te tekstit</p>
+</body>
+</html>
