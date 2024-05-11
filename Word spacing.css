@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e hapesires se fjaleve duke perdorur CSS</title>
+<style>
+    p.nje {
+        word-spacing: 20px;
+    }
+    p.dy {
+        width: 150px;
+        word-spacing: 20px;
+        text-align: justify;
+    }
+    p.tre {
+        word-spacing: 20px;
+        white-space: pre;
+    }
+</style>
+</head>
+<body>
+    <p class="nje">Ky eshte nje paragraf normal.</p>
+    <hr>
+    <p class="dy">Vini re se hapesirat ndermjet fjaleve te ketij paragrafi ndryshojne 
+    per te justifikuar tekstin edhe nese vlera e vetive te ndarjes se fjaleve eshte
+    vendosur ne 20px.</p>
+    <hr>
+    <p class="tre">Vini re se hapesirat midis fjaleve 
+    te ketij paragrafi jane me te larta se hapesirat normale
+    edhe nese hapesirat e bardha ruhen.</p>
+</body>
+</html>
