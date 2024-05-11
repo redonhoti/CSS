@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i selektoreve CSS pa grupim</title>
+<style>
+    h1 {
+        font-size: 36px;
+        font-weight: normal;
+    }
+    h2 {
+        font-size: 28px;
+        font-weight: normal;
+    }
+    h3 {
+        font-size: 22px;
+        font-weight: normal;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull i nivelit 1</h1>
+    <h2>Ky eshte nje titull i nivelit 2</h2>
+    <h3>Ky eshte nje titull i nivelit 3</h3>
+</body>
+</html>
