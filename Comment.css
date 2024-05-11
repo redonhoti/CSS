@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i komenteve CSS</title>
+<style>
+    /*Ky eshte nje koment CSS*/
+         /*Komentet nuk shfaqen,
+    nga shfletuesi*/
+h1 {
+    color:blue;
+    text-align: center;
+}
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+</body>
+</html>
