@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e ngjyres se planit te pare per elementet</title>
+<style>
+    p.nje {
+        color: #0000ff;
+        border: 2px solid;
+    }
+    p.dy {
+        color: #00ff00;
+        outline: 2px solid;
+    }
+</style>
+</head>
+<body>
+    <p class="nje">Ngjyra e kufirit te ketij paragrafi eshte e njejte me ngjyren me ngjyren e 
+tekstit te elementit.</p>
+    <p class="dy">Ngjyra e konturit te ketij paragrafi eshte e njejte me ngjyren e 
+tekstit te elementit</p>
+</body>
+</html>
