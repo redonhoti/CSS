@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i selektoreve te pergjithshem sibilinng CSS</title>
+<style>
+    h1~ p {
+        color: blue;
+        font-size: 18px;
+    }
+    ul.task~p{
+        color: #f0f;
+        text-indent: 30px;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf</p>
+    <p>Ky eshte nje tjeter paragraf.</p>
+    <ul class="task">
+        <li>Detyra 1</li>
+        <li>Detyra 2</li>
+        <li>Detyra 3</li>
+    </ul>
+    <p>Ky eshte nje paragraf me shume.</p>
+    <p>Ky eshte gjithashtu nje paragraf</p>
+</body>
+</html>
