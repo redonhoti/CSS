@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e ngjyres se tekstit duke perdorur CSS</title>
+    <style>
+        h1 {
+            color: #ff0000;
+        }
+        p {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf i thjeshte teksti</p>
+</body>
+</html>
