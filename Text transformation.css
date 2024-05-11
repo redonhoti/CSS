@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e transformimit te tekstit duke perdorur CSS</title>
+<style>
+    h1 {
+        text-transform: uppercase;
+    }
+    h2 {
+        text-transform: capitalize;
+    }
+    h3 {
+        text-transform: lowercase;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte titulli 1</h1>
+    <h2>Ky eshte titulli 2</h2>
+    <h3>Ky eshte titulli 3</h3>
+</body>
+</html>
