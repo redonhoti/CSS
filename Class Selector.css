@@ -1,0 +1,16 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull e selektorit te klaseve CSS</title>
+<style>
+    .nata {
+        color: cornflowerblue;
+    }
+</style>
+</head>
+<body>
+    <h1 class="nata">Ky eshte nje titull</h1>
+    <p class="nata">Ky eshte nje paragraf</p>
+    <p>Ky eshte nje tjeter paragraf</p>
+</body>
+</html>
