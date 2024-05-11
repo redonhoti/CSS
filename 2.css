@@ -1,0 +1,16 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull e selektorit te klases CSS</title>
+<style>
+    p.blue {
+        color: #0000ff;
+    }
+</style>
+</head>
+<body>
+    <h1 class="blue">Ky eshte nje titull</h1>
+    <p class="blue">Ky eshte nje paragraf</p>
+    <p>Ky eshte nje tjeter paragraf</p>
+</body>
+</html>
