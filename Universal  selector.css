@@ -1,0 +1,16 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i selektorit universal CSS</title>
+<style>
+    * {
+        margin: 0;
+        padding: 0;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf</p>
+</body>
+</html>
