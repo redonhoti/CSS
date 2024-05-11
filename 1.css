@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i kodit te komentimit ne CSS</title>
+<style>
+    h1 {
+        color:blue;
+        text-align: center;
+    }
+    /*
+    p {
+        font-size: 18px;
+        text-transform: uppercase;
+    }
+    */
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf</p>
+</body>
+</html>
