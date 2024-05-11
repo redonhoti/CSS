@@ -1,0 +1,15 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e peshes se shkronjave ne CSS</title>
+<style>
+    p {
+        font-weight: bold;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf me font te trashe.</p>
+</body>
+</html>
