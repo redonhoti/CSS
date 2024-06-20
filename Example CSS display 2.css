@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shembull i ekranit CSS</title>
+<style>
+    p {
+        display: inline;
+        background: #8FBC8F;
+        padding: 10px;
+    }
+    ul li {
+        display: inline;
+        margin: 10px;
+    }
+</style>
+</head>
+<body>
+    <p>Ky element paragrafi gjeneron nje kuti inline.</p>
+    <ul>
+        <li>Artikulli 1</li>
+        <li>Artikulli 2</li>
+        <li>Artikulli 3</li>
+        <li>Artikulli 4</li>
+        <li>Artikulli 5</li>
+    </ul>  
+</body>
+</html>
