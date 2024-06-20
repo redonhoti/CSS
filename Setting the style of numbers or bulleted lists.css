@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e stilit te numrave ose pikave te listave</title>
+    <style>
+       ul {
+        list-style-type: square;
+       }
+       ol {
+        list-style-type: upper-roman;
+       }
+    </style>
+</head>
+<body>
+    <h2>Lista e pa numeruar</h2>
+    <ul>
+        <li>Artikulli 1 i listes</li>
+        <li>Artikulli 2 i listes</li>
+        <li>Artikulli 3 i listes</li>
+    </ul>
+    <h2>Lista e numeruar</h2>
+    <ol>
+        <li>Artikulli 1 i listes</li>
+        <li>Artikulli 2 i listes</li>
+        <li>Artikulli 3 i listes</li>
+    </ol>
+</body>
+</html>
