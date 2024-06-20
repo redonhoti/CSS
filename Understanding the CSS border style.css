@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuptimi i stilit te kufirit CSS</title>
+<style>
+     p {
+        border-width: 15px;
+        background: yellow;
+        padding: 20px;
+        margin: 20px;
+     }
+     p.none {
+        border-style: none;
+     }
+     p.hidden {
+        border-style: hidden;
+     }
+     p.dotted {
+        border-style: dotted;
+     }
+     p.dashed {
+        border-style: dashed;
+    }
+    p.solid {
+        border-style: solid;
+    }
+     p.double {
+        border-style: double;
+    }
+    p.groove {
+        border-style: groove;
+     }
+     p.ridge {
+        border-style: ridge;
+     }
+     p.inset {
+        border-style: inset;
+     }
+     p.outset {
+        border-style: outset ;
+     }
+</style>
+</head>
+<body>
+    <p class="none">Pa kufi</p>    
+    <p class="hidden">Kufiri i fshehur</p>
+    <p class="dotted">Nje kufi me pika</p>
+    <p class="dashed">Nje kufi i thyer</p>
+    <p class="solid">Nje kufi i forte</p>
+    <p class="double">Nje kufi i dyfishte</p>
+    <p class="groove">Nje kufi brazde</p>
+    <p class="ridge">Nje kufi fillestar</p>
+    <p class="inset">Nje kufi i futur</p>
+    <p class="outset">Nje kufi fillestar </p>
+</body>
+</html>
