@@ -1,0 +1,60 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i vetive CSS ne anen e titullit</title>
+    <style>
+        table, td, th {
+            border: 1px solid gray;
+        }
+        caption {
+            caption-side: bottom;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <caption>Tabela 1.0</caption>
+        <thead>
+    <tr>
+        <th>Nr.</th>
+        <th>Emri</th>
+        <th>Mbiemri.</th>
+        <th>Email</th>
+    </tr>
+        </thead>
+        <tbody>
+    <tr>
+        <td>1</td>
+        <td>Ismail</td>
+        <td>Kadare</td>
+        <td>ismailkadare@gmail.com</td>
+    </tr>
+        </thead>
+        </tbody>
+    <tr>
+        <td>2</td>
+        <td>Sami</td>
+        <td>Frasheri</td>
+        <td>samifrasheri@gmail.com</td>
+    </tr>
+        </thead>
+        <tbody>
+    <tr>
+        <td>3</td>
+        <td>Isa</td>
+        <td>Boletini</td>
+        <td>isaboletini@gmail.com</td>
+    </tr>
+</thead>
+<tbody>
+    <tr>
+        <td>4</td>
+        <td>Ibrahim</td>
+        <td>Rugova</td>
+        <td>ibrahimrugova@gmail.com</td>
+    </tr>
+        </thead>
+</tbody>
+</table>
+</body>
+</html>
