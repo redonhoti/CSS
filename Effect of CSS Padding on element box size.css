@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Efekti i Padding CSS ne madhesine e kutise se elementit</title>
+<style>
+    div {
+        width: 100%;
+        padding: 25px;
+        background: violet;
+     }
+</style>
+</head>
+<body>
+    <div>
+        <h1>Ky eshte nje DIV Box</h1>
+    </div>
+        <p><strong>Njoftim</strong>,kete here nuk ka rrotulla ne fund te portit te 
+shikimit.</p>
+    
+</body>
+</html>
