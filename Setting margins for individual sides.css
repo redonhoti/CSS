@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cilesimi i margjinave per anet individuale</title>
+<style>
+    h1 {
+        margin-top: 50px;
+        margin-bottom: 100px;
+        background: yellow;
+    }
+    p {
+        margin-left: 75px;
+        margin-right: 75px;
+        background: yellow;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf i thjeshte teksti.</p>
+    <p><strong>Shenim:</strong>Luaj me vleren e prones se margjines per te pare se 
+    si funksionon</p>
+</body>
+</html>
