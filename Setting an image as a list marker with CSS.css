@@ -1,0 +1,20 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e nje imazhi si shenues i listes me CSS</title>
+<style>
+    ul li {
+        list-style-image: url("1-mercedes-benz-g-class-2019-rt-hero-front.webp");
+        margin: 5%;
+    }
+</style>
+</head>
+<body>
+    <h2>Perdorimi i imazhit si shenje e listes</h2>
+    <ul>
+        <li>Artikulli 1 i listes</li>
+        <li>Artikulli 2 i listes</li>
+        <li>Artikulli 3 i listes</li>
+    </ul>
+</body>
+</html>
