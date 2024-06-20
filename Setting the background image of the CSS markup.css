@@ -1,0 +1,26 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendosja e imazhit ne prapavi te shenjezimit ne CSS</title>
+<style>
+    ul {
+        list-style-type: none;
+    }
+    ul li {
+        background-image: url("1-mercedes-benz-g-class-2019-rt-hero-front.webp");
+        background-position: 0px 3px;
+        background-repeat: no-repeat;
+        padding-left: 20px;
+        margin: 5px;
+    }
+</style>
+</head>
+<body>
+    <h1>Perdorimi i imazhit si shenje e listes</h1>
+    <ul>
+        <li>Artikulli 1 i listes</li>
+        <li>Artikulli 2 i listes</li>
+        <li>Artikulli 3 i listes</li>
+    </ul>
+</body>
+</html>
