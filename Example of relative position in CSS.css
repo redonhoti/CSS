@@ -1,0 +1,41 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shembull i pozicionit relativ ne CSS</title>
+<style>
+   .box {
+    position: relative;
+    left: 100px;
+    color: #fff;
+    background: #00c4cc;
+    padding: 20px;
+   }
+   .container {
+    padding: 50px;
+    margin: 50px;
+    border: 5px solid black;
+    font-family: Arial, sans-serif;
+   }
+   .container p {
+    line-height: 50px;
+   }
+</style>
+</head>
+<body>
+    <div class="container">
+        <div class="box">
+            <h2>Kuti e pozicionuar statike</h2>
+            <div><strong>Shenim :</strong>Kjo kuti eshte e pozicionuar statike, e cila eshte e 
+            paracaktuar.Pozicionohet gjithmone sipas rrjedhes normale te faqes.</div>
+        </div>
+        <p>Nje element i pozicionuar ne menyre statike pozicionohet gjithmone sipas 
+        rrjedhes normale te faqes.Elementet HTML jane te pozicionuara statike si
+        parazgjedhje.Elementet e pozicionuara ne menyre statike nuk ndikohen nga vetite:
+        top, bottom, left, right dhe z-index.</p>
+        <p>Pozicionimi i elementeve ne menyre te pershtatshme ne ueb faqe eshte nje 
+            domosdoshmeri per nje dizajn te mire te paraqitjes.Ekzistojne disa metoda ne CSS qe
+            mund te perdoren per pozicionimin e elementeve  </p>
+    </div>
+</body>
+</html>
