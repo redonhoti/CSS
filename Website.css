@@ -1,0 +1,89 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Ora,Shtedim</title>
+<style>
+    .image.restaurant {
+        max-width: 100%;
+        height: auto;
+        border-radius: 8px;
+        margin-bottom: 20px;
+    }
+    body {
+        font-family: Arial,sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: grey;
+        color: blue;
+        text-decoration: dashed;
+    }
+    header {
+        color: #fff;
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <header>
+        <h1>Mire se vini te Restaurant Ora </h1>
+        <p style="color: gold;">Shijoni nje destinacion te mrekullueshem</p>
+    </header>
+    <section class="menu-section">
+        <p align="center"><img src="ra65-Restaurant-ORA-exterior-2022-08.jpg">
+    </section>
+    <section id="menu">
+        <h1 align="center" style="color: red;">Menuja</h1>
+        <h2 align="center">Ushqimi</h2>
+        <div align="center"><div class="menu-item">
+            <span>Mish i Kombinuar</span>
+            <span style="background-color:lightblue">7.00€</span>
+        </div>
+       
+    <div class="menu-item">
+    <span>Uje i thjesht</span>
+    <span style="background-color: lightblue ;">0.50€</span>
+</div>
+<div class="menu-item">
+   <span>Golden Eagle</span>
+   <span style="background-color: lightblue">1.20€</span>
+</div>
+<div class="menu-item">
+    <span>Kafe </span>
+    <span style="background-color: lightblue">0.80€</span>
+ </div>
+ <div class="menu-item">
+    <span>Makiato</span>
+    <span style="background-color: lightblue">1.30€</span>
+ </div>
+ <div class="menu-item">
+    <span>Kapuqino</span>
+    <span style="background-color: lightblue">2.00€</span>
+ </div>
+ <div class="menu-item">
+    <span>Bambi</span>
+    <span style="background-color: lightblue ">0.70€</span>
+ </div>
+ </div>
+    </section>
+    <section align="center" id="address">
+        <h2 align="center"><h2 style="color: greenyellow;">Adresa</h2>
+        <p>Podujevë-Merdare kilometri i 4-te, Podujevë, Kosovo</p>
+    </section>
+    <section align="center"id="contact" class="contact-info">
+        <h2 align="center"><h2 style="color:gold;">Kontakt</h2>
+        <p>Email: restaurantora-ks.com</p>
+        <p>Telefon: 044 166 775</p>
+        <h2 style="color: yellow;">Fotot e Restaurantit</h2>
+        <a href="ballroom.jpg" style="color: blue; background-color: silver;">1 foto e Restaurantit</a>
+        <a href="caption.jpg" style="color: blue; background-color: silver;">1 foto tjeter e Restaurantit</a>
+    </section>
+    <footer>
+        <p align="center" style="color: blue;">2024 Restaurant Ora,Shtedim. Te gjitha te drejtat e rezervuara</p>
+    </footer>
+    <i><b><p align="center" style="color:black;"><strong style="color:black;">E punoi Redon Hoti</strong></p></b></i>
+    <i><b><p align="center" style="color:black;">Projekt ne gjuhen programuese  CSS</strong></p></b></i>
+    <i><b><p align="center" style="color:black;"><strong>Arsimtari:</strong>Ardian Tahiri</p></b></i>
+    <h2 align="center" style="color:#e74c3c;">UNION SCHOOL<strong style="display: block;"></strong></h2>  
+</body>
+</html>
