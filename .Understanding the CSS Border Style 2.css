@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kuptimi i stilit te kufirit CSS</title>
+<style>
+    p {
+        border-width: 15px;
+        background: aliceblue;
+        padding: 20px;
+        margin: 20px;
+     }
+     p.double {
+        border-style: double;
+    }
+    p.solid {
+        border-style: solid;
+    }
+</style>
+</head>
+<body>
+    <p class="double">Sot eshte dita e fundit e muajit Shkurt</p>
+    <p class="solid">Ata qe kane lindur me 29 Shkurt e kane vetem njehere ne 4 vite datelindjen</p>
+</body>
+</html>
