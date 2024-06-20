@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shembull  vendosjes se mbushjes per te gjitha elementet pernjehere</title>
+<style>
+    h1 {
+        padding: 50px; /*aplikohet ne te kater anet*/
+    }
+    p {
+        padding: 25px 75px; /*vertikalisht-horizontalisht*/
+    }
+    div {
+        padding: 25px 50px 75px; /*larte-horizontalisht-poshte*/
+    }
+    pre {
+        padding: 25px 50px 75px 100px; /*larte-djathte-poshte-majtas*/
+    }
+    h1, p, div, pre {
+        background: lime;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf i thjeshte i tekstit.</p>
+    <div>Ky eshte nje element DIV.</div>
+    <pre>Kjo eshte nje pjese e tekstit.</pre>
+    <p><strong>Shenim:</strong>Luaj me vleren e prones per te pare se si
+funksionon</p>
+</body>
+</html>
