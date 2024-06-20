@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vetia me gjeresi kufiri CSS</title>
+<style>
+    p {
+        border-style: solid;
+        padding: 20px;
+        margin: 20px;
+    }
+    p.nje {
+        border-width: 5px;
+    }
+    p.dy {
+        border-width: 5px 10px;
+    }
+    p.tre {
+        border-width: 5px 10px 15px;
+    }
+    p.kater {
+        border-width: medium 10px thick 15px;
+    }
+</style>
+</head>
+<body>
+    <p class="nje"><strong>sintakse me nje vlere:</strong>vlera e vetme percakton
+gjeresine e te kater aneve te kufirit.</p>
+<p class="dy"><strong>sintakse me dy vlere:</strong>vlera e pare percakton 
+ gjeresine e kufirit te siperm dhe te poshtem,ndersa vlera e dyte percakton gjeresine 
+    e kufirit te anes se djathte dhe te majte..</p>
+    <p class="tre"><strong>sintakse me tri vlera:</strong>vlera e pare percakton
+        gjeresine e kufirit te siperm dhe te poshtem,vlera e dyte percakton gjeresine 
+    te  djathte dhe te majte dhe vlera e trete percakton gjeresine e kufirit te poshtem.</p>
+        <p class="kater"><strong>sintakse me kater vlera:</strong>secila vlere percakton
+            gjeresine e kufirit individualisht ne rendin lart,djathtas, posht dhe majtas.
+           </p>
+           
+</body>
+</html>
