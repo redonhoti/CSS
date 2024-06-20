@@ -1,0 +1,40 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Percaktimi i ngjyres se kufirit CSS</title>
+<style>
+    p {
+        border-width: 15px;
+        padding: 20px;
+        margin: 20px;
+    }
+    p.nje{
+        border-style: solid;
+        border-color: #FF0000;
+    }
+    p.dy{
+        border-style: solid;
+        border-color: #FF0000 #00ff00 ;
+    }
+    p.tre{
+        border-style: solid;
+        border-color: #ff0000 #00ff00 #0000ff;
+    }
+    p.kater{
+        border-style: solid;
+        border-color: #ff0000 #00ff00 #0000ff #ff00ff;
+    }
+</style>
+</head>
+<body>
+    <p class="nje"><strong>sintakse me nje vlere:</strong>vlera e vetme percakton
+    ngjyren e te kater aneve te kufirit</p>
+    <p class="dy"><strong>sintakse me nje vlere:</strong>vlera e vetme percakton
+        ngjyren e te kater aneve te kufirit</p>
+        <p class="tre"><strong>sintakse me nje vlere:</strong>vlera e vetme percakton
+            ngjyren e te kater aneve te kufirit</p>
+            <p class="kater"><strong>sintakse me nje vlere:</strong>vlera e vetme percakton
+                ngjyren e te kater aneve te kufirit</p>
+</body>
+</html>
