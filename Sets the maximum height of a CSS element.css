@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vendos lartesine maksimale te nje elementi CSS</title>
+<style>
+        div {
+         height: 200px;
+         max-height: 100px;
+         background: #bbb3ff;
+        }
+        p {
+         max-height: 100px;
+         background: #eee8aa;
+        }
+</style>
+</head>
+<body>
+        <div>Gjeresia maksimale e ketij elementi div eshte caktuar ne 200px,keshtu
+            qe nuk mund te jete me e gjere se kaq </div>
+        <p>Futni nje tekst per te pare se si funksionon.</p>
+</body>
+</html>
