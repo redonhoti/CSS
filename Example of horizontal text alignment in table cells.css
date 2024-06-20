@@ -1,0 +1,57 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i shtrirjes se tekstit horizontalisht ne qelizat e tabeles</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 8px;
+        border: 1px solid #dee2e6;
+    }
+    th {
+        text-align: left;
+    }
+</style>
+</head>
+<body>
+    <table>
+        <thead>
+                <tr>
+                    <th>Nr.</th>
+                    <th>Emri</th>
+                    <th>Mbiemri.</th>
+                    <th>Email</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>Ismail</td>
+                    <td>Kadare</td>
+                    <td>ismailkadare@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Sami</td>
+                    <td>Frasheri</td>
+                    <td>samifrasheri@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Isa</td>
+                    <td>Boletini</td>
+                    <td>isaboletini@gmail.com</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Ibrahim</td>
+                    <td>Rugova</td>
+                    <td>ibrahimrugova@gmail.com</td>
+                </tr>
+            </table>
+            </tr>
+        </thead>
+    </table>
+</body>
+</html>
