@@ -1,0 +1,39 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Ndryshimi i pozicionit te shenjave tek listat</title>
+<style>
+    body {
+        font-size: 14px;
+        font-family: Arial,sans-serif;
+    }
+    ol li {
+        background: #ddd;
+        padding: 5px;
+        margin: 5px;
+    }
+    ol.in li {
+        list-style-position: inside;
+    }
+    ol.out.li {
+        list-style-position: outside;
+    }
+</style>
+</head>
+<body>
+    <h2>Pozicioni i Shenuesit te Listes - Brenda</h2>
+    <ol class="in">
+        <li>Vendos rripin e sigurimit tend</li>
+        <li>Ndizni motorin e makines dhe shikoni me nga afer grupin e instrumenteve
+        per cdo shenje paralajmeruese</li>
+        <li>Shikoni perreth me kujdes dhe shikoni</li>
+    </ol>
+    <h2>Pozicioni i Shenuesit te Listes - Jashte</h2>
+    <ol class="out">
+        <li>Vendos rripin e sigurimit tend</li>
+        <li>Ndizni motorin e makines dhe shikoni me nga afer grupin e instrumenteve
+        per cdo shenje paralajmeruese</li>
+        <li>Shikoni perreth me kujdes she shkoni</li>
+    </ol>
+</body>
+</html>
