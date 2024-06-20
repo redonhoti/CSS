@@ -1,0 +1,32 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cakto margjinen per te gjitha anet pernjehere</title>
+<style>
+    h1 {
+        margin: 50px; /*apliko ne te gjitha anet*/
+    }
+    p {
+        margin: 25px 75px; /*vertikalisht-horizontalisht*/
+    }
+    div {
+        margin: 25px 50px 75px; /*lart-horizontalisht-poshte*/
+    }
+    hr {
+        margin: 25px 50px 75px 100px; /*lart-djathtas-poshte-majtas*/
+    }
+    h1, p, div {
+        background: yellow;
+    }
+</style>
+</head>
+<body>
+    <h1>Ky eshte nje titull</h1>
+    <p>Ky eshte nje paragraf i thjeshte teksti.</p>
+    <div>Ky eshte nje element DIV.</div>
+    <hr>
+    <p><strong>Shenim:</strong>Luaj me vleren e prones se marzhit per te pare se si
+    funksionon</p>
+</body>
+</html>
