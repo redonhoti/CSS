@@ -1,0 +1,51 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i vetive te paraqitjes se tabeles CSS</title>
+<style>
+      table {
+        width: 250px;
+        border-collapse: separate;
+      }
+      table, tr, th, td {
+        border: 1px solid #000000;
+      }
+      .auto {
+        table-layout: auto;
+      }
+      .fixed {
+        table-layout: fixed;
+      }
+      td {
+        width: 50%;
+      }
+</style>
+</head>
+<body>
+    <table class="auto">
+        <caption>Shembulli 1. Auto</caption>
+        <tr>
+            <th>Emri</th>
+            <td>Zahir Pajaziti</td>
+        </tr>
+        <tr>
+            <th>Email</th>
+            <td>zahirpajaziti@gmail.com</td>
+        </tr>
+    </table>
+    <br>
+    <table class="fixed">
+        <caption>Shembulli 2. Fixed</caption>
+        <tr>
+            <th>Emri</th>
+            <td>Adem Jashari</td>
+        </tr>
+        <tr>
+            <th>Email</th>
+            <td>ademjashari@gmail.com</td>
+        </tr>
+    </table>
+    <p><strong>Shenim:</strong>Mund te shihni se gjeresia e qelizes se tabeles 
+    nuk ndryshon per te akomoduar permbajtjen ne paraqitjen fikse te tabeles</p>
+</body>
+</html>
