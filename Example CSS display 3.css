@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shembull i ekranit CSS</title>
+<style>
+    div {
+        display: inline-block;
+        background: #90EE90;
+        padding: 10px;
+    }
+    span {
+        display: inline-block;
+        background: #F08080;
+        padding: 10px;
+    }
+</style>
+</head>
+<body>
+    <div>
+        <span>Ky element span dhe elementi i tij prind div gjenerojne nje kuti 
+        inline-block.</span>
+    </div>
+</body>
+</html>
