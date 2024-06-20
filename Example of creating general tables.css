@@ -1,0 +1,91 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i krijimit te tabelave te pergjithshme</title>
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        padding: 8px;
+        text-align: left;
+        border: 1px solid #dee2e6;
+        white-space: nowrap;
+    }
+    .responsive-table {
+        overflow-x: auto;
+    }
+</style>
+</head>
+<body>
+    <div class="responsive-table">
+        <table>
+            <thead>
+                <tr>
+                    <th>Nr.</th>
+                    <th>Furnizuesi</th>
+                    <th>Emri dhe Mbiemri</th>
+                    <th>Adresa</th>
+                    <th>Qyteti</th>
+                    <th>Kodi postare</th>
+                    <th>Shteti</th>
+                    <th>Telefoni</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Egzonita</td>
+                    <td>Artan Gashi</td>
+                    <td>Rr."Skenderbeu"</td>
+                    <td>Podujeve</td>
+                    <td>11000</td>
+                    <td>Republika e Kosoves</td>
+                    <td>(044) 111-222</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>CoTex</td>
+                    <td>Filan Fisteku</td>
+                    <td>Rr."Xhemajl Mustafa"</td>
+                    <td>Podujeve</td>
+                    <td>11000</td>
+                    <td>Republika e Kosoves</td>
+                    <td>(049) 555-444</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>S-Sprint</td>
+                    <td>Filan Fisteku</td>
+                    <td>Letanc</td>
+                    <td>Podujeve</td>
+                    <td>11000</td>
+                    <td>Republika e Kosoves Republika e Kosoves Republika e Kosoves Republika e Kosoves Republika e Kosoves Republika e Kosoves</td>
+                    <td>(048) 123-444</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Ananas Impex</td>
+                    <td>Filan Fisteku</td>
+                    <td>Podujeve</td>
+                    <td>Podujeve</td>
+                    <td>11000</td>
+                    <td>Republika e Kosoves</td>
+                    <td>(049) 321-456</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>AMG</td>
+                    <td>Filan Fisteku</td>
+                    <td>Rr."Xhemajl Mustafa"</td>
+                    <td>Podujeve</td>
+                    <td>11000</td>
+                    <td>Republika e Kosoves</td>
+                    <td>(049) 555-444</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
