@@ -1,0 +1,18 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vetia e shkurte e kufirit CSS</title>
+<style>
+    p{
+        border: 5px solid #00ff00;
+        background: #ffff00;
+        padding: 20px;
+        margin: 20px;
+    }
+</style>
+</head>
+<body>
+    <p>Ky eshte nje paragraf me kufi.</p>
+</body>
+</html>
