@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cilesimi i te gjitheve vetive te listes ernjher CSS</title>
+<style>
+    ul {
+        list-style: square inside url("1-mercedes-benz-g-class-2019-rt-hero-front.webp");
+        background: #9ddfef;
+    }
+    ul li {
+        background: #ededed;
+        margin: 5px 0px;
+        padding: 5px;
+    }
+</style>
+</head>
+<body>
+    <h2>nje <code>Liste ne stilin</code>me te gjitha vetive pernjeher</h2>
+    <ul>
+        <li>Artikulli 1 i listes</li>
+        <li>Artikulli 2 i listes</li>
+        <li>Artikulli 3 i listes</li>
+    </ul>
+</body>
+</html>
