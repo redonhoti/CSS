@@ -1,0 +1,25 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Personalizojeni nje lidhje si buton duke perdorur css</title>
+<style>
+    a:link, a:visited {
+        color: white;
+        background-color: #1ebba3;
+        display: inline-block;
+        padding: 10px 20px;
+        border: 2px solid #099983;
+        text-decoration: none;
+        text-align: center;
+        font: 14px Arial, sans-serif;
+    }
+    a:hover, a:active {
+        background-color: #9c6ae1;
+        border-color: #7443b6;
+    }
+</style>
+</head>
+<body>
+    <p><a href="#">Butoni i lidhjes CSS</a></p>
+</body>
+</html>
