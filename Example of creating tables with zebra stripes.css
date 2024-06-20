@@ -1,0 +1,62 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shembull i krijimit te tabelave me vija zebra</title>
+<style>
+     table {
+        width: 100%;
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+     }
+     th, td {
+        padding: 8px;
+        text-align: left;
+        border-top: 1px solid #dee2e6;
+     }
+     tbody tr:nth-child(odd) {
+        background-color: #f2f2f2;
+     }
+</style>
+</head>
+<body>
+    <table>
+        <thead>
+    <tr>
+        <th>Nr.</th>
+        <th>Emri</th>
+        <th>Mbiemri.</th>
+        <th>Email</th>
+    </tr>
+        </thead>
+        <tbody>
+    <tr>
+        <td>1</td>
+        <td>Ismail</td>
+        <td>Kadare</td>
+        <td>ismailkadare@gmail.com</td>
+    </tr>
+
+    <tr>
+        <td>2</td>
+        <td>Sami</td>
+        <td>Frasheri</td>
+        <td>samifrasheri@gmail.com</td>
+    </tr>
+    
+    <tr>
+        <td>3</td>
+        <td>Isa</td>
+        <td>Boletini</td>
+        <td>isaboletini@gmail.com</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Ibrahim</td>
+        <td>Rugova</td>
+        <td>ibrahimrugova@gmail.com</td>
+    </tr>
+        </thead>
+</tbody>
+</table>
+</body>
+</html>
