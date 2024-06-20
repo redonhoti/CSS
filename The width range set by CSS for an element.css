@@ -1,0 +1,21 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gama e gjeresise se vendosur CSS per nje element</title>
+<style>
+    div {
+        float: left;
+        min-width: 300px;
+        max-width: 500px;
+        height: 100px;
+        background: #eee8aa;
+       }
+</style>
+</head>
+<body>
+    <div><strong>Shenim:</strong>Gjeresia minimale e elementit div te meposhtem
+do te jete 300 px dhe mund te shtrihet horizontalisht deri ne 500px.Futni disa
+rreshta teksti brenda elementit div per te kuptuar se si funksionon.</div>
+</body>
+</html>
