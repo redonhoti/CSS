@@ -1,0 +1,16 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gjeresia dhe lartesia e nje elementi te vendosur nga CSS</title>
+<style>
+    div {
+        width: 300px;
+        height: 200px;
+        background: #eee8aa;
+    }
+</style>
+</head>
+<body>
+    <div>Zahir Pajaziti eshte hero kombetar!</div>
+</body>
+</html>
