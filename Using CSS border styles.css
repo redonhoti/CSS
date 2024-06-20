@@ -1,0 +1,69 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perdorimi i stileve te kufirit CSS</title>
+    <style>
+        p {
+           border-width: 20px;
+           background: bisque;
+           padding: 40px;
+           margin: 40px;
+        }
+        p.none {
+           border-style: none;
+        }
+        p.hidden {
+           border-style: hidden;
+        }
+        p.dotted {
+           border-style: dotted;
+        }
+        p.dashed {
+           border-style: dashed;
+       }
+       p.solid {
+           border-style: solid;
+       }
+        p.double {
+           border-style: double;
+       }
+       p.groove {
+           border-style: groove;
+        }
+        p.ridge {
+           border-style: ridge;
+        }
+        p.inset {
+           border-style: inset;
+        }
+        p.outset {
+           border-style: outset ;
+        }
+    </style>
+    </head>
+    <body>
+        <p class="none">Republika e Kosoves</p>  
+        <p class="none">Komuna e Podujeves</p>  
+        <p class="hidden">Republika e Kosoves</p>
+        <p class="hidden">Komuna e Podujeves</p>  
+        <p class="dotted">Republika e Kosoves</p>
+        <p class="dotted">Komuna e Podujeves</p>  
+        <p class="dashed">Republika e Kosoves</p>
+        <p class="dashed">Komuna e Podujeves</p>  
+        <p class="solid">Republika e Kosoves</p>
+        <p class="solid">Komuna e Podujeves</p>  
+        <p class="double">Republika e Kosoves</p>
+        <p class="double">Komuna e Podujeves</p>  
+        <p class="groove">Republika e Kosoves</p>
+        <p class="groove">Komuna e Podujeves</p>  
+        <p class="ridge">Republika e Kosoves</p>
+        <p class="ridge">Komuna e Podujeves</p>  
+        <p class="inset">Republika e Kosoves</p>
+        <p class="inset">Komuna e Podujeves</p>  
+        <p class="outset">Republika e Kosoves</p>
+        <p class="outset">Komuna e Podujeves</p>  
+        
+           
+</body>
+</html>
