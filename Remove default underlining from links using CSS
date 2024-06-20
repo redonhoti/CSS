@@ -1,0 +1,17 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hiq nenvizimin e paracaktuar nga lidhjet duke perdorur CSS</title>
+<style>
+    a:link, a:visited {
+        text-decoration: none;
+    }
+    a:hover, a:active {
+        text-decoration: underline;
+    }
+</style>
+</head>
+<body>
+    <p><a href="#">Vendose treguesin e miut mbi mua</a></p>
+</body>
+</html>
