@@ -1,0 +1,22 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Boks modeli CSS</title>
+<style>
+      div {
+        width: 300px;
+        height: 200px;
+        padding: 15px;
+        border: 10px solid black;
+        margin: 20px auto;
+      }
+</style>
+</head>
+<body>
+    <div>Zakonisht kur vendosni gjeresine dhe lartesine e nje elementi duke perdorur
+    vetite e gjeresise CSS width dhe height,ne te vertete ju vendosni vetem gjeresine
+    dhe lartesine e zones se permbajtjes se atij elementi.Gjeresia dhe lartesia aktuale
+    e kutise se elementit varet nga disa faktore.
+    </div>
+</body>
+</html>
