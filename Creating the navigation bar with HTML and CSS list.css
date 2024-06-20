@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Krijimi i shiritit te navigimit me listen HTML dhe CSS</title>
+<style>
+     body {
+        font-size: 14px;
+        font-family: Arial,sans-serif;
+     }
+     ul {
+        padding: 0;
+        list-style: none;
+        background: #f2f2f2;
+     }
+     ul li {
+        display: inline-block;
+     }
+     ul li a {
+        display: block;
+        padding: 10px 25px;
+        color: #333;
+        text-decoration: none;
+     }
+     ul li a:hover {
+        color: #fff;
+        background: #939393;
+     }
+</style>
+</head>
+<body>
+    <nav>
+        <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Products</a></li>
+        <li><a href="#">Services</a></li>
+        <li><a href="#">Portfolio</a></li>
+        <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <p><strong>Shenim:</strong>Vendosni treguesin e miut mbi lidhjen e menyse per 
+    te pare efektin.</p>
+    
+</body>
+</html>
